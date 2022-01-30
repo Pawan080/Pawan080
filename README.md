@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Bruh
 - 🌱 I’m currently learning ...Bruh
 - 💞️ I’m looking to collaborate on ...Bruh
-- 📫 How to reach me ...Sheeeesh .lol you can't 
+- 📫 How to reach me ...Sheeeesh.
 
 <!---
 Pawan080/Pawan080 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
